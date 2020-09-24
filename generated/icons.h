@@ -1,16 +1,6 @@
 /* 
  * Assets header: icons
  * Automatically generated from image files: 
- * /Users/tomschuring/Desktop/weathericons/13d.bmp
- * /Users/tomschuring/Desktop/weathericons/09d.bmp
- * /Users/tomschuring/Desktop/weathericons/04d.bmp
- * /Users/tomschuring/Desktop/weathericons/03d.bmp
- * /Users/tomschuring/Desktop/weathericons/02d.bmp
- * /Users/tomschuring/Desktop/weathericons/01d.bmp
- * /Users/tomschuring/Desktop/weathericons/50d.bmp
- * /Users/tomschuring/Desktop/weathericons/11d.bmp
- * /Users/tomschuring/Desktop/weathericons/hannah.bmp
- * /Users/tomschuring/Desktop/weathericons/10d.bmp
  */
 
 #define icons_frames 10
